@@ -1,4 +1,4 @@
 diplom
 ======
 
-diplom
+Diplom Project
